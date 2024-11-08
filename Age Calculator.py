@@ -4,7 +4,7 @@ from datetime import datetime
 
 root = tk.Tk()
 root.title("Age Calculator")
-root.geometry("600x400")
+root.geometry("300x300")
 
 def calculate_age():
     try:
